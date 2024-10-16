@@ -1,0 +1,16 @@
+/*
+Theme Name: Succulents Child
+Theme URI: http://succulents.select-themes.com
+Description: A child theme of Succulents Theme
+Author: Select Themes
+Author URI: http://themeforest.net/user/select-themes
+Version: 1.0.0
+Text Domain: succulents
+Template: succulents
+*/
+
+input[type="text"]{
+    border: none !important;
+    border-color: transparent;
+    margin-bottom:0;
+}
